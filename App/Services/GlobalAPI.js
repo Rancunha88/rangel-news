@@ -1,6 +1,6 @@
 // Define the base URL and API key
 const BASE_URL = 'https://newsapi.org/v2/';
-const API_KEY = '93a21c6a46734767b487220ec4f0e8a7';
+const API_KEY = API_KEY;
 
 // GET https://newsapi.org/v2/top-headlines?country=us&apiKey=93a21c6a46734767b487220ec4f0e8a7
 
